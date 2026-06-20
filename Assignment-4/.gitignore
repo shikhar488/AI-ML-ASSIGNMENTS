@@ -1,2 +1,5 @@
 fraudTest.csv
 fraudTrain.csv
+mlflow.db
+mlruns/
+__pycache__/
